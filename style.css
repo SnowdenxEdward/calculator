@@ -1,0 +1,40 @@
+* {
+  font-family: sans-serif;
+}
+#toggle {
+  border-radius: 4px;
+}
+#container {
+  text-align: center;
+  margin: 20px;
+}
+#addButton {
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 2px;
+}
+#subtractButton {
+  cursor: pointer;
+
+  border-radius: 4px;
+  margin: 2px;
+}
+#multiplyButton {
+  cursor: pointer;
+
+  border-radius: 4px;
+  margin: 2px;
+}
+#divideButton {
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 2px;
+}
+#firstInput {
+  border-radius: 4px;
+  margin: 10px;
+}
+#secondInput {
+  border-radius: 4px;
+  margin: 5px;
+}
